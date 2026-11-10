@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "conditions": [ { "condition": "minecraft:survives_explosion" } ],
+      "entries": [ { "type": "minecraft:item", "name": "lunaria:moonstone_block" } ]
+    }
+  ],
+  "random_sequence": "lunaria:blocks/moonstone_block"
+}

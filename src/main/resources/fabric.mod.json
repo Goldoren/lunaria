@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "lunaria",
+  "version": "${version}",
+  "name": "Lunaria",
+  "description": "La pierre de lune : un minerai, des outils lunaires, une lampe et le Bâton de Lune qui t'offre la vision et la légèreté de la nuit.",
+  "authors": [
+    "Toi"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.lunaria.Lunaria"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "icon": "assets/lunaria/icon.png"
+}

@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "building",
+  "pattern": [" M ", "MGM", " M "],
+  "key": { "M": { "item": "lunaria:moonstone" }, "G": { "item": "minecraft:glowstone" } },
+  "result": { "id": "lunaria:moon_lamp", "count": 1 } }

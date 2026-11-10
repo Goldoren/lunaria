@@ -1,0 +1,13 @@
+{
+  "itemGroup.lunaria": "Lunaria",
+  "block.lunaria.moonstone_ore": "Minerai de pierre de lune",
+  "block.lunaria.moonstone_block": "Bloc de pierre de lune",
+  "block.lunaria.moon_lamp": "Lampe lunaire",
+  "item.lunaria.raw_moonstone": "Pierre de lune brute",
+  "item.lunaria.moonstone": "Pierre de lune",
+  "item.lunaria.moonstone_pickaxe": "Pioche en pierre de lune",
+  "item.lunaria.moonstone_sword": "Épée en pierre de lune",
+  "item.lunaria.moon_staff": "Bâton de Lune",
+  "item.lunaria.moon_staff.tooltip": "Clic droit : vision nocturne, chute lente et saut amélioré",
+  "item.lunaria.moon_staff.tooltip_night": "La nuit : effets doublés + régénération"
+}

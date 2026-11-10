@@ -1,0 +1,13 @@
+{
+  "itemGroup.lunaria": "Lunaria",
+  "block.lunaria.moonstone_ore": "Moonstone Ore",
+  "block.lunaria.moonstone_block": "Block of Moonstone",
+  "block.lunaria.moon_lamp": "Moon Lamp",
+  "item.lunaria.raw_moonstone": "Raw Moonstone",
+  "item.lunaria.moonstone": "Moonstone",
+  "item.lunaria.moonstone_pickaxe": "Moonstone Pickaxe",
+  "item.lunaria.moonstone_sword": "Moonstone Sword",
+  "item.lunaria.moon_staff": "Moon Staff",
+  "item.lunaria.moon_staff.tooltip": "Right-click: night vision, slow falling and jump boost",
+  "item.lunaria.moon_staff.tooltip_night": "At night: doubled effects + regeneration"
+}
