@@ -49,7 +49,7 @@ public class MoonStaffItem extends Item {
 				serverWorld.spawnParticles(ParticleTypes.END_ROD,
 					user.getX(), user.getY() + 1.0, user.getZ(), 30, 0.5, 0.8, 0.5, 0.02);
 			}
-			world.playSound(null, user.getBlockPos(), SoundEvents.BLOCK_AMETHYST_CLUSTER_CHIME,
+			world.playSound(null, user.getBlockPos(), SoundEvents.BLOCK_AMETHYST_BLOCK_CHIME,
 				SoundCategory.PLAYERS, 1.0f, 0.8f);
 
 			EquipmentSlot slot = hand == Hand.MAIN_HAND ? EquipmentSlot.MAINHAND : EquipmentSlot.OFFHAND;
