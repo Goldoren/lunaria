@@ -32,3 +32,23 @@ Dépose le .jar dans `mods/` avec Fabric Loader + Fabric API (1.21.1).
 2. Récupère le .jar (celui **sans** `-sources`) : en local dans `build/libs/`, ou via l'onglet *Actions* de GitHub (artefact `lunaria-jar`).
 3. App CurseForge → ton modpack → **⋮ → Open Folder** → dépose le .jar dans `mods/`.
 4. Pour exporter/publier le modpack avec le mod à l'intérieur, vérifie les règles de CurseForge sur les mods non publiés (le plus propre : publier Lunaria comme projet CurseForge, puis l'ajouter au modpack depuis le catalogue).
+
+
+## Mise à jour 1.1
+- **Textures** redessinées (contours, ombrage) pour tous les objets et blocs.
+- **Nouveaux objets** : poussière lunaire, essence lunaire, fil lunaire, hache / pelle / houe en pierre de lune,
+  Lame spectrale, Amulette lunaire (vision nocturne dans la barre d'accès rapide), Pomme lunaire,
+  bloc de poussière lunaire.
+- **Bâton de Lune** : barre d'énergie lunaire toujours visible (64 points, 8 par utilisation),
+  recharge automatique dans l'inventaire (3x plus vite la nuit), ne casse plus.
+- **Monstres** : Spectre lunaire (drops : poussière, essence) et Araignée lunaire (drops : fil, essence), avec oeufs d'apparition.
+- **Structures** : Sanctuaire lunaire (garde par des Spectres) et Obélisque lunaire (garde par des Araignées),
+  avec coffres de butin. Biomes : forêts, taïgas, collines, plaines, désert, savane, prairies.
+- Commandes de test : `/locate structure lunaria:moon_shrine` et `/locate structure lunaria:moon_obelisk`.
+
+## Recettes ajoutées
+- Pomme lunaire : pomme + 4 poussières lunaires (sans forme)
+- Lame spectrale : épée en pierre de lune + 2 essences + 2 poussières (sans forme)
+- Amulette lunaire : `T_T / _E_ / TMT` (T = fil lunaire, E = essence, M = pierre de lune)
+- Bloc de poussière : 4 poussières en carré 2x2
+- Hache `MM / MS / _S`, pelle `M / S / S`, houe `MM / _S / _S`
