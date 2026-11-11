@@ -1,0 +1,2 @@
+{ "structures": [ { "structure": "lunaria:moon_obelisk", "weight": 1 } ],
+  "placement": { "type": "minecraft:random_spread", "spacing": 30, "separation": 12, "salt": 1029384756 } }

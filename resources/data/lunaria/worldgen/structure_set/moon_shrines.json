@@ -1,0 +1,2 @@
+{ "structures": [ { "structure": "lunaria:moon_shrine", "weight": 1 } ],
+  "placement": { "type": "minecraft:random_spread", "spacing": 26, "separation": 10, "salt": 1928374651 } }

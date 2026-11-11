@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "lunaria",
+  "version": "${version}",
+  "name": "Lunaria",
+  "description": "La pierre de lune : minerai, outils, spectres et araignées lunaires, sanctuaires et obélisques, et le Bâton de Lune.",
+  "authors": [
+    "Toi"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fr.lunaria.Lunaria"
+    ],
+    "client": [
+      "fr.lunaria.LunariaClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "icon": "assets/lunaria/icon.png"
+}

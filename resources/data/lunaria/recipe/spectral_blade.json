@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shapeless", "category": "equipment",
+  "ingredients": [ { "item": "lunaria:moonstone_sword" }, { "item": "lunaria:lunar_essence" },
+                   { "item": "lunaria:lunar_essence" }, { "item": "lunaria:moon_dust" }, { "item": "lunaria:moon_dust" } ],
+  "result": { "id": "lunaria:spectral_blade", "count": 1 } }

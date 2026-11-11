@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "equipment",
+  "pattern": [" M ", "MEM", " S "],
+  "key": { "M": { "item": "lunaria:moonstone" }, "E": { "item": "minecraft:ender_pearl" }, "S": { "item": "minecraft:stick" } },
+  "result": { "id": "lunaria:moon_staff", "count": 1 } }

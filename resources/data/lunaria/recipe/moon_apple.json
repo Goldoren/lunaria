@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shapeless", "category": "misc",
+  "ingredients": [ { "item": "minecraft:apple" }, { "item": "lunaria:moon_dust" }, { "item": "lunaria:moon_dust" },
+                   { "item": "lunaria:moon_dust" }, { "item": "lunaria:moon_dust" } ],
+  "result": { "id": "lunaria:moon_apple", "count": 1 } }

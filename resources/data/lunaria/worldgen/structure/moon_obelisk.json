@@ -1,0 +1,13 @@
+{ "type": "minecraft:jigsaw",
+  "biomes": "#lunaria:has_structure/moon_ruins",
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin",
+  "start_pool": "lunaria:moon_obelisk/start",
+  "size": 1,
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false,
+  "start_height": { "absolute": -3 },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "spawn_overrides": {
+    "monster": { "bounding_box": "piece",
+      "spawns": [ { "type": "lunaria:moon_spider", "weight": 1, "minCount": 1, "maxCount": 2 } ] } } }

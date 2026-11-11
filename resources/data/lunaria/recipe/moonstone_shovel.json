@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "equipment",
+  "pattern": ["M", "S", "S"],
+  "key": { "M": { "item": "lunaria:moonstone" }, "S": { "item": "minecraft:stick" } },
+  "result": { "id": "lunaria:moonstone_shovel", "count": 1 } }

@@ -1,0 +1,3 @@
+{ "name": "lunaria:moon_obelisk/start", "fallback": "minecraft:empty",
+  "elements": [ { "weight": 1, "element": { "element_type": "minecraft:single_pool_element",
+    "location": "lunaria:moon_obelisk", "processors": "minecraft:empty", "projection": "rigid" } } ] }

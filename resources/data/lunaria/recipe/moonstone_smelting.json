@@ -1,0 +1,3 @@
+{ "type": "minecraft:smelting", "category": "misc",
+  "ingredient": { "item": "lunaria:raw_moonstone" },
+  "result": { "id": "lunaria:moonstone" }, "experience": 0.8, "cookingtime": 200 }

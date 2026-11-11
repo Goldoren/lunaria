@@ -1,0 +1,4 @@
+{ "type": "minecraft:crafting_shaped", "category": "building",
+  "pattern": ["MMM", "MMM", "MMM"],
+  "key": { "M": { "item": "lunaria:moonstone" } },
+  "result": { "id": "lunaria:moonstone_block", "count": 1 } }
